@@ -1,0 +1,4 @@
+[{"name": "압축풀기", "password":"12341234rr"},
+{"name": "도매매", "file":"xls", "startline":"1", "sort":"row3		row2"},
+{"name": "스타일도매", "file":"xls", "sort":"row2   row1	row3	row4"},
+{"name": "도매매", "file":"zip", "password":"12341234rr", "sort":"row4	row1	row2    row3" }]

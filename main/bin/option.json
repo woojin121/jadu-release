@@ -1,0 +1,38 @@
+[
+    {
+        "name": "\uc555\ucd95\ud480\uae30",
+        "password": "12341234rr",
+        "output": "",
+        "startline": "",
+        "custom": "",
+        "sort": "",
+        "field": ""
+    },
+    {
+        "name": "\ub3c4\ub9e4\ub9e4",
+        "password": "12341234rr",
+        "output": "xls",
+        "startline": "",
+        "custom": "domeme",
+        "sort": "\uacf5\uae09\uc0ac\uba85\t\uc0c1\ud488\uc790\uccb4\ucf54\ub4dc\t\t\uc0c1\ud488\uc635\uc158(\uae30\ubcf8)\t\uc218\ub7c9\t\uc218\ub839\uc778\t\uc218\ub839\uc778 \uc6b0\ud3b8\ubc88\ud638\t\uc8fc\ubb38\uc790 \uc8fc\uc18c\t\uc8fc\ubb38\uc790 \uc0c1\uc138 \uc8fc\uc18c\t\uc218\ub839\uc778 \ud734\ub300\uc804\ud654\t\uc218\ub839\uc778 \uc804\ud654\ubc88\ud638\t\uc0c1\ud488\ubc88\ud638\t\uc804\ub2ec\uc0ac\ud56dX\t\ubc30\uc1a1\uba54\uc2dc\uc9c0\t\ud1b5\uad00\uace0\uc720\ubc88\ud638X\n",
+        "field": ""
+    },
+    {
+        "name": "\uce74\ud39824\uc1a1\uc7a5",
+        "password": "",
+        "output": "",
+        "startline": "",
+        "custom": "",
+        "sort": "\uae30\ud0c05\t\uace0\uac1d\uc8fc\ubb38\ubc88\ud638\t\uc6b4\uc1a1\uc7a5\ubc88\ud638\n",
+        "field": "\uc8fc\ubb38\ubc88\ud638\t\ud488\ubaa9\ubcc4 \uc8fc\ubb38\ubc88\ud638\t\uc6b4\uc1a1\uc7a5\ubc88\ud638"
+    },
+    {
+        "name": "\uc2a4\ud0c0\uc77c\ub3c4\ub9e4",
+        "password": "12341234rr",
+        "output": "xls",
+        "startline": "1",
+        "custom": "styledome",
+        "sort": "\uc8fc\ubb38\uacbd\ub85c\t\uc8fc\ubb38\ubc88\ud638\t\uc218\ub839\uc778\t\uc218\ub839\uc778 \uc804\ud654\ubc88\ud638\t\uc218\ub839\uc778 \ud734\ub300\uc804\ud654\t\uc218\ub839\uc778 \uc6b0\ud3b8\ubc88\ud638\t\uc218\ub839\uc778 \uc8fc\uc18c(\uc804\uccb4)\t\uc0c1\ud488\uba85(\uad00\ub9ac\uc6a9)\t\uc0c1\ud488\uc635\uc158\t\ucd94\uac00\uc785\ub825\uc635\uc158\t\t\uc218\ub7c9\t\ubc30\uc1a1\uba54\uc2dc\uc9c0\n",
+        "field": ""
+    }
+]
